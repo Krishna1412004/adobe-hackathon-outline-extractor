@@ -1,0 +1,265 @@
+{
+  "title": "Mridul Mahajan",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "mridulmahajan16@gmail.com",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "|",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "8219835321",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "|",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "linkedin.com/in/mridul-mahajan04",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "github.com/mridulmahajan04",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Technologies",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Languages:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Java, SQL",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Core CS Concepts:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Object-Oriented Programming (OOP), Data Structures Algorithms, Database Management",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Systems",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Frameworks Tools:",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Flask, Docker, Numpy, Pandas",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Education",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Thapar Institute of Engineering and Technology",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": ", BE in Computer Science",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Sept 2023 \u2013 June 2026",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Government Millennium Polytechnic College",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": ", Diploma in Computer Science",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Aug 2020 \u2013 June 2023",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Experience",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Deloitte Austrailia Technology Job Simulation on Forage",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "July 2025",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Completed a job simulation involving development and coding",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Wrote a proposal for creating a dashboard",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Tata Data Visualisation",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "July 2025",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Completed a simulation involving creating data visualizations for Tata Consultancy Services",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Prepared questions for a meeting with client senior leadership",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Projects",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Student Performance Prediction",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Github",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Built an end-to-end ML pipeline with EDA, feature engineering, and CatBoost to predict student performance.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Deployed a scalable Flask web app using Docker; implemented logging and exception handling for",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "maintainability.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Network Security System",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Github",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Developed an ML model to classify websites as malicious or benign using Python and scikit-learn.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Integrated MongoDB for scalable data storage and deployed via Docker with CI/CD pipelines (GitHub Actions).",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Ecommerce website",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Github",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Built a full-stack e-commerce web app with Flask, SQLAlchemy, and MySQL, including login, cart, checkout, and",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "admin panel.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Implemented secure authentication, optimized database queries, and used caching to improve performance.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Utilized classic algorithms (quicksort for product sorting) and data structures (dictionary cache) to demonstrate",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "computer science fundamentals.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Real Time chat Application",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Github",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Built a real-time chat app using MERN stack Socket.io with secure authentication (JWT bcrypt).",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Developed a responsive React frontend and RESTful API backend for user management messaging.",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Designed MongoDB schema (Mongoose) with protected routes for secure access.",
+      "page": 1
+    }
+  ]
+}

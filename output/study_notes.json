@@ -1,0 +1,2650 @@
+{
+  "title": "MANUFACTURING PROCESSES",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "TURNING",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "THEORY OF METAL MACHINING",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Machining",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "is a manufacturing process in which a",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "sharp cutting tool is used to cut away material to",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "leave the desired part shape.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "The predominant cutting action in machining",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "involves",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "shear deformation",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "of the work material",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "to form a chip; as the chip is removed, a new",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "surface is exposed.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Machining is most frequently applied to shape",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "metals.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "An Orthogonal Cutting",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "A Cross-sectional View Of The Machining Process",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "THEORY OF METAL MACHINING",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Machining is not just one process; it is a group of",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "processes.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "The common feature is the use of a cutting tool",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "to form a chip that is removed from the",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "workpart.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "To perform the operation, relative motion is",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "required between the tool and work.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "THEORY OF METAL MACHINING",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "This",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "relative",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "motion",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "is",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "achieved",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "in",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "most",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "machining operations by means of a",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "PRIMARY",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "MOTION",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ", called the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "CUTTING SPEED",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ", and a",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "secondary motion",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ", called the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "feed",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "The shape of the tool and its penetration into the",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "work surface, combined with these motions,",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "produces the desired geometry of the resulting",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "work surface.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "TURNING & RELATED OPERATIONS",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "TURNING",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "is a machining process in which a",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "single-point tool",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "removes material from the",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "surface",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "of a",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "rotating workpiece",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "The tool is fed linearly in a direction parallel to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the axis of rotation to generate a",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "cylindrical",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "geometry.",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "Turning is traditionally carried out on a machine",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "tool called a",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "LATHE",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ", which provides power to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "turn the part at a given",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "rotational speed",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "and to",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "feed",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "the tool at a specified",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "rate",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "depth of cut",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": ".",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "TURNING",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "OPERATIONS RELATED TO TURNING",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "A variety of other machining operations can be",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "performed on a lathe in addition to turning.",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "Following slides will give a brief overview of",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "these operations.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "FACING",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "The tool is fed radially into the rotating work on",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "one end to create a flat surface on the end.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "TAPER TURNING",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "Instead of feeding the tool parallel to the axis of",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "rotation of the work, the tool is fed at an angle,",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "thus creating a tapered cylinder or conical shape.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "CONTOUR TURNING",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "Instead of feeding the tool along a straight line",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "parallel to the axis of rotation as in turning, the tool",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "follows a contour that is other than straight, thus",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "creating a contoured form in the turned part.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "FORM TURNING",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "In this operation, sometimes called forming , the",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "tool has a shape that is imparted to the work by",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "plunging the tool radially into the work.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "CHAMFERING",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "The cutting edge of the tool is used to cut an",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "angle on the corner of the cylinder, forming what",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "is called a \u2018\u2018 chamfer. \u2019\u2019",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "CUTOFF",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "The tool is fed radially into the rotating work at",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "some location along its length to cut off the end of",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "the part. This operation is sometimes referred to as",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "parting .",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "THREADING",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "A pointed tool is fed linearly across the outside",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "surface of the rotating workpart in a direction",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "parallel to the axis of rotation at a large effective",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "feed rate, thus creating threads in the cylinder.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "BORING",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "A single-point tool is fed linearly, parallel to the",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "axis of rotation, on the inside diameter of an",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "existing hole in the part.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "DRILLING",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Drilling can be performed on a lathe by feeding",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "the drill into the rotating work along its axis.",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "Reaming can be performed in a similar way.",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "KNURLING",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "This is not a machining operation because it does",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "not involve cutting of material. Instead, it is a metal",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "forming operation used to produce a regular cross-",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "hatched pattern in the work surface.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "TURNING PARAMETERS",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "CUTTING SPEED (",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "v",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Cutting speed may be defined as the rate (or",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "speed) that the material/job moves past the",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "cutting edge of the tool.",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Rough Cut",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Finish Cut",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Material",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "m/min",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "m/min",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Cast iron",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "18",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "24",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Bronze",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "27",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "30",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "Aluminum",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "61",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "93",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "CUTTING SPEED (",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "v",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": ")",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "mm/min",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "v",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "\u03c0 D",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "o",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "N",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "v",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "cutting speed",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "mm/min",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "N",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "rotational speed",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "rev/min",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "o",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "original dia of the part",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "1",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Feed (",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "f",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": ")",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "mm/rev or mm/stroke",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Feed",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": ", may be defined as the small relative",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "movement per cycle (per revolution or per stroke )",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "of the cutting tool in a direction usually normal to",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "the cutting speed direction.",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Feed Rate (",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "f",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": ")",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "mm/min",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Feed",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "mm/rev",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "is the distance cutting tool",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "advances",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "along",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "length",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "of",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "work",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "for",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "every",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "revolution of the spindle.",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "This feed can be converted to a linear travel rate",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "Feed Rate",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": ") (",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": ") in",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "mm/min",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "by the formula",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "N f",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "DEPTH OF CUT (",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "d",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": ") mm",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "It is defined as the depth of penetration of the",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "tool into the work piece during machining.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "In other words, it is the perpendicular distance",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "measured from the machined surface to the",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "unmachined surface of the work piece.",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "It is usually expressed in millimeters.",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "DEPTH OF CUT (",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "d",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": ") mm",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "The thickness of material removed by one pass",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "of the cutting tool is called Depth of Cut.",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "d",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "o",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "o",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "original dia of the part",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "final dia of the part",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "d",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "depth of cut",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "MACHINING LENGTH (",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "l",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": ")",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "mm",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "L",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "a",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "l   =  L  +  a",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "Tool pre-travel",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "4",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "The time required to machine a workpiece length",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "\u201c",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "\u201d",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "is given by:",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "T",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "T",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "\u03c0 D",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "f v",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "MACHINING TIME (",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "T",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": ")",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "min",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "Feed rate",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "f N",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "MATERIAL REMOVAL RATE (",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "MR",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "/min",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "It is the volume of material removed per unit",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "time.",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "MATERIAL REMOVAL RATE (",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "MR",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "/min",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "It is the volume of material removed per unit",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "time.",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "volume",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "time",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "4",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "T",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "MATERIAL REMOVAL RATE (",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "MR",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "3",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "/min",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "R",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "\u2013 D",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "+ D",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 31
+    },
+    {
+      "level": "H1",
+      "text": "l",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "d",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "avg",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "f N",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "because",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "avg",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "= v",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "v",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "f",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "d",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "NO. OF PASSES (",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "n",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": ")",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "No. of Passes",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "n",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "o",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "-",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "2 ( d )",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "where, d is DOC per pass",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "Total machining time  =",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "n T",
+      "page": 32
+    },
+    {
+      "level": "H1",
+      "text": "TURNING NUMERICAL 1",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "A cylindrical workpart",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "125 mm in diameter",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "900 mm long",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "is to be turned in an engine lathe.",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Cutting speed =",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "2.50 m/s",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": ", feed =",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "0.3 mm/rev",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": ",",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "and depth of cut =",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "2 mm",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": ". Determine (a) cutting",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "time, and (b) metal removal rate.",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "TURNING NUMERICAL 1",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "125 mm",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "900 mm",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "v",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "2.50 m/s = 2500 mm/s",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "0.3 mm/rev",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "d",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "2 mm",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "Formula Used",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "(1)",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "(2)",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "(5)",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "MRR =",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "vdf",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "mm",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "/s",
+      "page": 34
+    },
+    {
+      "level": "H1",
+      "text": "TURNING NUMERICAL 1",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "N",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "= (2500)/125\u03c0 =",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "6.366 rev/s",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "= 6.366(.3) =",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "1.91 mm/s",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "T",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "= 900/1.91 = 471.2 s =",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "7.85 min",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "1",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "2",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "5",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "TURNING NUMERICAL 1",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "MRR = vfd",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "(2500)(.3)(2.0)",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "= 1500 mm",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "/s",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "(",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "6",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": ")",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "TURNING NUMERICAL 2",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "\u2022",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "In a production turning operation, the foreman",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "has decided that the single pass must be",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "completed on the cylindrical workpiece in",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "5.0",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "min",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": ". The piece is",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "400 mm long",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "and",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "150 mm in",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "diameter",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": ". Using a",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "feed = 0.30 mm/rev",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "and a",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "depth of cut = 4.0",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "mm, what cutting speed must",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "be",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "used",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "to",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "meet",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "this",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "machining",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "time",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "requirement?",
+      "page": 37
+    },
+    {
+      "level": "H1",
+      "text": "TURNING NUMERICAL 2",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "T",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "5.0 min",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "l",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "400 mm",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "D",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "150 mm",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "f",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "0.3 mm/rev",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "d",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "=",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "4 mm",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Formula Used",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "(5)",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Extra Info",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "Ans:-125.7 m/min",
+      "page": 38
+    }
+  ]
+}
